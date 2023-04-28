@@ -1,0 +1,10 @@
+Package: dev.callmeecho.cleanpass
+Name: CleanPass
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: A tweak that removes the numbers and letters from the password menu.
+Maintainer: CallMeEcho
+Author: CallMeEcho
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: com.vladofficial.blankpass
